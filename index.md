@@ -4,7 +4,7 @@ title: Home
 hero:
   eyebrow: P1 Program · 2025–2027
   subtitle: AI, HCI & Psychology
-  lede: Researchers in artificial intelligence (AI), psychiatry and human–computer interaction (HCI) working together on tools for mental health research that are powerful, responsible and grounded in the people they serve.
+  lede: Researchers in artificial intelligence (AI), human–computer interaction (HCI), and psychiatry working together on tools for mental health research that are powerful, responsible and grounded in the people they serve.
   meta:
     - "**19** researchers"
     - "**5** Danish universities"

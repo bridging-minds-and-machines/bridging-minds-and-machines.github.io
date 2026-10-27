@@ -1,13 +1,21 @@
 ---
-layout: default
+layout: home
 title: Home
+hero:
+  eyebrow: P1 Program · 2025–2027
+  subtitle: AI, HCI & Psychology
+  lede: Researchers in artificial intelligence (AI), psychiatry and human–computer interaction (HCI) working together on tools for mental health research that are powerful, responsible and grounded in the people they serve.
+  meta:
+    - "**19** researchers"
+    - "**5** Danish universities"
+  image_alt: Illustration of a woman wearing a brain-shaped headset with mechanical parts, symbolising the meeting of mind and machine.
 ---
 
-Welcome to our research initiative.
-We bring together researchers from Artificial Intelligence, Human-Computer Interaction, and Psychology.
+Welcome to our research initiative!
+We bring together researchers from Artificial Intelligence (AI), Human-Computer Interaction (HCI), and Psychology.
 
-*Bridging Minds and Machines: AI, HCI & Psychology* (2025–2027) is funded as a
-[P1 program](https://www.aicentre.dk/p1-programs/bridging-minds-and-machines-ai-hci-psychology)
+[*Bridging Minds and Machines: AI, HCI & Psychology* is funded as a
+P1 program](https://www.aicentre.dk/p1-programs/bridging-minds-and-machines-ai-hci-psychology)
 by the [Pioneer Centre for AI](https://www.aicentre.dk/).
 
 

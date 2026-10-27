@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en' }}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ site.title }}</title>
+<meta name="description" content="{{ site.description }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;0,900;1,400&display=swap">
+<link rel="stylesheet" href="{{ '/assets/css/home.css' | relative_url }}">
+</head>
+<body>
+<header class="hero">
+  <div class="hero-img" role="img" aria-label="{{ page.hero.image_alt }}"></div>
+  <div class="inner">
+    <div class="logos">
+      <img class="p1" src="{{ '/assets/images/logo-p1.png' | relative_url }}" alt="Pioneer Centre for Artificial Intelligence">
+    </div>
+    <div class="hero-text">
+      <p class="eyebrow">{{ page.hero.eyebrow }}</p>
+      <h1>{{ site.title }}</h1>
+      <p class="sub">{{ page.hero.subtitle }}</p>
+      <p class="lede">{{ page.hero.lede }}</p>
+      {% if page.hero.meta %}
+      <div class="meta">
+        {% for item in page.hero.meta %}<span>{{ item | markdownify | remove: '<p>' | remove: '</p>' | strip }}</span>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+  </div>
+</header>
+
+<main>
+  {% comment %} Each "## Heading" in the page becomes its own banded section. {% endcomment %}
+  {% assign parts = content | split: '<h2' %}
+  {% for part in parts %}
+    {% assign body = part | strip %}
+    {% if body != "" %}
+  <section{% cycle ' class="alt"', '' %}>
+    <div class="inner"><div class="col">
+      {% if forloop.first %}{{ part }}{% else %}<h2{{ part }}{% endif %}
+    </div></div>
+  </section>
+    {% endif %}
+  {% endfor %}
+</main>
+
+<footer>
+  <div class="inner">
+    <span>A P1 program at the <a href="https://www.aicentre.dk/">Pioneer Centre for Artificial Intelligence</a>, Copenhagen.</span>
+    <span>AAU · AU · DTU · ITU · KU</span>
+  </div>
+</footer>
+</body>
+</html>

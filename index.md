@@ -5,6 +5,7 @@ hero:
   eyebrow: P1 Program · 2025–2027
   subtitle: AI, HCI & Psychology
   lede: Researchers in artificial intelligence (AI), human–computer interaction (HCI), and psychiatry working together on tools for mental health research that are powerful, responsible and grounded in the people they serve.
+  
   meta:
     - "**19** researchers"
     - "**5** Danish universities"
@@ -25,7 +26,7 @@ by the [Pioneer Centre for AI](https://www.aicentre.dk/).
 
 Directors:
 - **[Stella Grasshof](https://www.aicentre.dk/people/stella-grasshof)** (AI), IT University of Copenhagen (also spelled Graßhof)
-- **[Louise Glenthøj](https://www.aicentre.dk/people/louise-glenthoj)** (Psychology), Mental Health Center Copenhagen, University of Copenhagen
+- **[Louise Glenthøj](https://www.aicentre.dk/people/louise-glenthoj)** (Psychology), Mental Health Center Copenhagen (VIRTU Research Group) & Department of Psychology, University of Copenhagen
 - **[Niels van Berkel](https://www.aicentre.dk/people/niels-van-berkel)** (HCI), Aalborg University
 
 

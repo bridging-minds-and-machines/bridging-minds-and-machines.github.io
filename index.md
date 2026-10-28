@@ -26,7 +26,7 @@ by the [Pioneer Centre for AI](https://www.aicentre.dk/).
 
 Directors:
 - **[Stella Grasshof](https://www.aicentre.dk/people/stella-grasshof)** (AI), IT University of Copenhagen (also spelled Graßhof)
-- **[Louise Glenthøj](https://www.aicentre.dk/people/louise-glenthoj)** (Psychology), Mental Health Center Copenhagen (VIRTU Research Group) & Department of Psychology, University of Copenhagen
+- **[Louise Glenthøj](https://www.aicentre.dk/people/louise-glenthoj)** (Psychology), Department of Psychology, University of Copenhagen, VIRTU Research Group
 - **[Niels van Berkel](https://www.aicentre.dk/people/niels-van-berkel)** (HCI), Aalborg University
 
 

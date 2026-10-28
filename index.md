@@ -5,7 +5,7 @@ hero:
   eyebrow: P1 Program · 2025–2027
   subtitle: AI, HCI & Psychology
   lede: Researchers in artificial intelligence (AI), human–computer interaction (HCI), and psychiatry working together on tools for mental health research that are powerful, responsible and grounded in the people they serve.
-  
+
   meta:
     - "**19** researchers"
     - "**5** Danish universities"
@@ -40,7 +40,7 @@ More to come.
 
 - **09.10.2026** – D3A session: [Bridging Minds and Machines: Responsible AI for Mental Health Care](https://d3aconference.dk/bridging-minds-and-machines-responsible-ai-for-mental-health-care/)
 - **08.10.2026** – D3A session: [Conversational AI and Youth Mental Health: Mapping Risks, Safety and AI Literacy](https://d3aconference.dk/conversational-ai-and-youth-mental-health-mapping-risks-ai-literacy-and-safety/)
-- **16.09.2026** – Talk: *AI and Ethics in Healthcare: Challenges and Possibilities*
+- **16.09.2026** – Talk: *AI and Ethics in Healthcare: Challenges and Possibilities* ([Lilas Ali](https://www.gu.se/en/about/find-staff/lilasali), [Emma Claesdotter-Knutsson](https://portal.research.lu.se/en/persons/emma-claesdotter-knutsson/))
 - **08.05.2026** – Networking meeting with Poster presentation
 - **23.01.2026** – Talk & networking: *Human-Computer Interaction* (Niels van Berkel)
 - **12.12.2025** – Talk & networking: *Malpractice, Interpretability, etc.* (Stella Grasshof)
